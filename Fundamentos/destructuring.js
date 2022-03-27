@@ -1,7 +1,7 @@
 const pessoa = {
     nome: 'Ana',
     idade: 5,
-    endereço: {
+    endereco: {
         logradouro: 'Rua ABC',
         numero: 1000
     }
@@ -19,5 +19,4 @@ console.log(sobrenome, bemHumorada)
 const { endereco: { logradouro, numero, cep } } = pessoa
 console.log(logradouro, numero, cep)
 
-const { conta: {ag, num} } = pessoa
-console.log(ag, num)
+//quando voce tentar desustruturar um dado aninhado, voce tem que ter certeza que o caminho ate o dado está livre / de fato settado
