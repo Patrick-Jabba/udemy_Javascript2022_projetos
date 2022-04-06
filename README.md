@@ -1,9 +1,9 @@
 # Curso Web Moderno Completo com JavaScript 2022 + Projetos 
 
 ## Domine Web com 15 Cursos + Projetos: Javascript Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
-
-<li> O que você aprenderá
-Tudo que vc precisa saber para construir aplicações modernas para Web
+<ol>
+<li> O que você aprenderá? </li>
+<ul>Tudo que vc precisa saber para construir aplicações modernas para Web
 Criar aplicações REAIS usando as mais modernas tecnologias do mercado
 Últimos recursos de HTML, CSS, Javascript e vários frameworks
 Aprender HTML 5 e os últimos recursos da linguagem
@@ -29,4 +29,5 @@ Aprenda as principais tecnologias da web nas últimas versões
 Desenvolver uma Aplicação com Angular 9
 Os principais conceitos do Angular 9: Componentes, Diretivas, Pipes, Services e muito mais
 Aprender Angular na Prática de forma muito objetiva
-Desenvolvimento Web </li>
+Desenvolvimento Web </ul>
+</ol>
